@@ -2,7 +2,8 @@
 
 This repository contains a custom implementation of the ResNet (Residual Network) architecture built from scratch using PyTorch. ResNet is a deep neural network designed to address the vanishing gradient problem, allowing effective training of very deep networks by introducing residual connections. This implementation supports multiple ResNet variants (ResNet-18, ResNet-34, ResNet-50) and is suitable for datasets like CIFAR-10 or ImageNet.
 
-![Screenshot 2024-11-07 223901](https://github.com/user-attachments/assets/dbe1a3f9-7233-41bb-8b94-2367470b657d)
+![Screenshot 2024-11-07 223901](https://github.com/user-attachments/assets/4bc2e9ba-7aa4-4c8a-9d10-60754f3504a8)
+
 
 
 # Architecture Overview
